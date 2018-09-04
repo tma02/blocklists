@@ -1,0 +1,4 @@
+msg-na.hismarttv.com
+auth-na.hismarttv.com
+upgrade-na.hismarttv.com
+api-launcher-na.hismarttv.com
